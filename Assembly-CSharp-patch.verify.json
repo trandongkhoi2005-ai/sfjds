@@ -1,21 +1,21 @@
 {
   "valid": true,
   "file": "C:\\Users\\Administrator\\Downloads\\11111\\project-freefire-stable-online-key-APP-CONTROL-SECURITY-V3\\dist\\Assembly-CSharp-patch.bytes",
-  "size": 123756,
-  "sha256": "1b1c734e6914c48a2902b26e5a8055f27f7ec6856afc5c13c1aab29193718880",
+  "size": 125450,
+  "sha256": "0e0095c2c0bd851193e528fd3bc7581a772999531939b85d8ff2e10304edd6fd",
   "format": {
     "magic": "0x66A319B20DB4A2CB",
     "expected_magic": "0x66A319B20DB4A2CB",
     "opcode_count": 181,
     "dialect": "target-flag-v1",
     "redirect_table_flag": 0,
-    "parsed_bytes": 123756
+    "parsed_bytes": 125450
   },
   "counts": {
     "external_types": 99,
     "vm_methods": 7,
     "external_methods": 222,
-    "strings": 193,
+    "strings": 198,
     "fields": 25,
     "static_fields": 0,
     "anonymous_types": 0,
@@ -26,24 +26,24 @@
   "methods": [
     {
       "method_id": 0,
-      "code_slots": 856,
-      "executable_instructions": 856,
+      "code_slots": 1001,
+      "executable_instructions": 1001,
       "payload_slots": 0,
       "exceptions": [
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 51,
-          "try_end": 849,
-          "handler_start": 849,
-          "handler_end": 854
+          "try_start": 65,
+          "try_end": 994,
+          "handler_start": 994,
+          "handler_end": 999
         }
       ],
-      "locals": 66,
+      "locals": 81,
       "declared_max_stack": 6,
       "observed_max_stack": 6,
       "return_arity": 1,
-      "reachable_instructions": 850,
+      "reachable_instructions": 995,
       "stack_verified": true
     },
     {
@@ -156,8 +156,8 @@
     },
     {
       "method_id": 6,
-      "code_slots": 11286,
-      "executable_instructions": 11284,
+      "code_slots": 11341,
+      "executable_instructions": 11339,
       "payload_slots": 2,
       "exceptions": [
         {
@@ -252,56 +252,56 @@
           "handler_type": 0,
           "catch_type_id": 3,
           "try_start": 5347,
-          "try_end": 7473,
-          "handler_start": 7473,
-          "handler_end": 7476
+          "try_end": 7528,
+          "handler_start": 7528,
+          "handler_end": 7531
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 7984,
-          "try_end": 8349,
-          "handler_start": 8349,
-          "handler_end": 8352
+          "try_start": 8039,
+          "try_end": 8404,
+          "handler_start": 8404,
+          "handler_end": 8407
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 8902,
-          "try_end": 10465,
-          "handler_start": 10465,
-          "handler_end": 10468
+          "try_start": 8957,
+          "try_end": 10520,
+          "handler_start": 10520,
+          "handler_end": 10523
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 10838,
-          "try_end": 10843,
-          "handler_start": 10843,
-          "handler_end": 10846
+          "try_start": 10893,
+          "try_end": 10898,
+          "handler_start": 10898,
+          "handler_end": 10901
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 10824,
-          "try_end": 10837,
-          "handler_start": 10837,
-          "handler_end": 10848
+          "try_start": 10879,
+          "try_end": 10892,
+          "handler_start": 10892,
+          "handler_end": 10903
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 8361,
-          "try_end": 11278,
-          "handler_start": 11278,
-          "handler_end": 11281
+          "try_start": 8416,
+          "try_end": 11333,
+          "handler_start": 11333,
+          "handler_end": 11336
         }
       ],
-      "locals": 655,
+      "locals": 658,
       "declared_max_stack": 8,
       "observed_max_stack": 8,
       "return_arity": 0,
-      "reachable_instructions": 11228,
+      "reachable_instructions": 11283,
       "stack_verified": true
     }
   ],
