@@ -1,20 +1,20 @@
 {
   "valid": true,
   "file": "C:\\Users\\Administrator\\Downloads\\11111\\project-freefire-stable-online-key-APP-CONTROL-SECURITY-V3\\dist\\Assembly-CSharp-patch.bytes",
-  "size": 125450,
-  "sha256": "0e0095c2c0bd851193e528fd3bc7581a772999531939b85d8ff2e10304edd6fd",
+  "size": 125937,
+  "sha256": "d14be47110600b7860965a38eb8e4d3a4fa51e2971ddcc7970c8e8b4856aa9ad",
   "format": {
     "magic": "0x66A319B20DB4A2CB",
     "expected_magic": "0x66A319B20DB4A2CB",
     "opcode_count": 181,
     "dialect": "target-flag-v1",
     "redirect_table_flag": 0,
-    "parsed_bytes": 125450
+    "parsed_bytes": 125937
   },
   "counts": {
     "external_types": 99,
     "vm_methods": 7,
-    "external_methods": 222,
+    "external_methods": 223,
     "strings": 198,
     "fields": 25,
     "static_fields": 0,
@@ -26,24 +26,24 @@
   "methods": [
     {
       "method_id": 0,
-      "code_slots": 1001,
-      "executable_instructions": 1001,
+      "code_slots": 1059,
+      "executable_instructions": 1059,
       "payload_slots": 0,
       "exceptions": [
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 65,
-          "try_end": 994,
-          "handler_start": 994,
-          "handler_end": 999
+          "try_start": 67,
+          "try_end": 1052,
+          "handler_start": 1052,
+          "handler_end": 1057
         }
       ],
-      "locals": 81,
+      "locals": 89,
       "declared_max_stack": 6,
       "observed_max_stack": 6,
       "return_arity": 1,
-      "reachable_instructions": 995,
+      "reachable_instructions": 1053,
       "stack_verified": true
     },
     {
