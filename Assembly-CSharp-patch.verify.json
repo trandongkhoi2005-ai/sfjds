@@ -1,0 +1,310 @@
+{
+  "valid": true,
+  "file": "C:\\Users\\Administrator\\Downloads\\11111\\project-freefire-stable-online-key-APP-CONTROL-SECURITY-V3\\dist\\Assembly-CSharp-patch.bytes",
+  "size": 122967,
+  "sha256": "f14ebf380eac0cbed0fe203fda0fad45352baba7cdf7a7565926cbd6b0da6253",
+  "format": {
+    "magic": "0x66A319B20DB4A2CB",
+    "expected_magic": "0x66A319B20DB4A2CB",
+    "opcode_count": 181,
+    "dialect": "target-flag-v1",
+    "redirect_table_flag": 0,
+    "parsed_bytes": 122967
+  },
+  "counts": {
+    "external_types": 99,
+    "vm_methods": 7,
+    "external_methods": 222,
+    "strings": 192,
+    "fields": 25,
+    "static_fields": 0,
+    "anonymous_types": 0,
+    "redirects": 6,
+    "new_classes": 0
+  },
+  "dump": "C:\\Users\\Administrator\\Downloads\\11111\\project-freefire-stable-online-key-APP-CONTROL-SECURITY-V3\\dumps\\unknown_package_name_1.132.1.cs",
+  "methods": [
+    {
+      "method_id": 0,
+      "code_slots": 830,
+      "executable_instructions": 830,
+      "payload_slots": 0,
+      "exceptions": [
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 51,
+          "try_end": 823,
+          "handler_start": 823,
+          "handler_end": 828
+        }
+      ],
+      "locals": 63,
+      "declared_max_stack": 6,
+      "observed_max_stack": 6,
+      "return_arity": 1,
+      "reachable_instructions": 824,
+      "stack_verified": true
+    },
+    {
+      "method_id": 1,
+      "code_slots": 375,
+      "executable_instructions": 375,
+      "payload_slots": 0,
+      "exceptions": [
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 171,
+          "try_end": 176,
+          "handler_start": 176,
+          "handler_end": 179
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 157,
+          "try_end": 170,
+          "handler_start": 170,
+          "handler_end": 181
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 13,
+          "try_end": 368,
+          "handler_start": 368,
+          "handler_end": 373
+        }
+      ],
+      "locals": 24,
+      "declared_max_stack": 4,
+      "observed_max_stack": 4,
+      "return_arity": 1,
+      "reachable_instructions": 360,
+      "stack_verified": true
+    },
+    {
+      "method_id": 2,
+      "code_slots": 2,
+      "executable_instructions": 2,
+      "payload_slots": 0,
+      "exceptions": [],
+      "locals": 0,
+      "declared_max_stack": 8,
+      "observed_max_stack": 0,
+      "return_arity": 0,
+      "reachable_instructions": 1,
+      "stack_verified": true
+    },
+    {
+      "method_id": 3,
+      "code_slots": 115,
+      "executable_instructions": 115,
+      "payload_slots": 0,
+      "exceptions": [],
+      "locals": 7,
+      "declared_max_stack": 2,
+      "observed_max_stack": 2,
+      "return_arity": 1,
+      "reachable_instructions": 114,
+      "stack_verified": true
+    },
+    {
+      "method_id": 4,
+      "code_slots": 127,
+      "executable_instructions": 127,
+      "payload_slots": 0,
+      "exceptions": [
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 7,
+          "try_end": 120,
+          "handler_start": 120,
+          "handler_end": 125
+        }
+      ],
+      "locals": 7,
+      "declared_max_stack": 4,
+      "observed_max_stack": 4,
+      "return_arity": 1,
+      "reachable_instructions": 123,
+      "stack_verified": true
+    },
+    {
+      "method_id": 5,
+      "code_slots": 155,
+      "executable_instructions": 155,
+      "payload_slots": 0,
+      "exceptions": [
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 7,
+          "try_end": 148,
+          "handler_start": 148,
+          "handler_end": 153
+        }
+      ],
+      "locals": 11,
+      "declared_max_stack": 4,
+      "observed_max_stack": 4,
+      "return_arity": 1,
+      "reachable_instructions": 149,
+      "stack_verified": true
+    },
+    {
+      "method_id": 6,
+      "code_slots": 11216,
+      "executable_instructions": 11214,
+      "payload_slots": 2,
+      "exceptions": [
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 341,
+          "try_end": 377,
+          "handler_start": 377,
+          "handler_end": 380
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 821,
+          "try_end": 1200,
+          "handler_start": 1200,
+          "handler_end": 1213
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 395,
+          "try_end": 1264,
+          "handler_start": 1264,
+          "handler_end": 1267
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 1285,
+          "try_end": 1341,
+          "handler_start": 1341,
+          "handler_end": 1344
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 2821,
+          "try_end": 3481,
+          "handler_start": 3481,
+          "handler_end": 3486
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 4503,
+          "try_end": 5151,
+          "handler_start": 5151,
+          "handler_end": 5156
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 1397,
+          "try_end": 5244,
+          "handler_start": 5244,
+          "handler_end": 5272
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 5719,
+          "try_end": 5748,
+          "handler_start": 5748,
+          "handler_end": 5751
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 5824,
+          "try_end": 5829,
+          "handler_start": 5829,
+          "handler_end": 5832
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 5804,
+          "try_end": 5823,
+          "handler_start": 5823,
+          "handler_end": 5834
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 25,
+          "try_start": 5844,
+          "try_end": 5918,
+          "handler_start": 5918,
+          "handler_end": 5921
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 5347,
+          "try_end": 7429,
+          "handler_start": 7429,
+          "handler_end": 7432
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 7940,
+          "try_end": 8279,
+          "handler_start": 8279,
+          "handler_end": 8282
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 8832,
+          "try_end": 10395,
+          "handler_start": 10395,
+          "handler_end": 10398
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 10768,
+          "try_end": 10773,
+          "handler_start": 10773,
+          "handler_end": 10776
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 10754,
+          "try_end": 10767,
+          "handler_start": 10767,
+          "handler_end": 10778
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 8291,
+          "try_end": 11208,
+          "handler_start": 11208,
+          "handler_end": 11211
+        }
+      ],
+      "locals": 650,
+      "declared_max_stack": 8,
+      "observed_max_stack": 8,
+      "return_arity": 0,
+      "reachable_instructions": 11158,
+      "stack_verified": true
+    }
+  ],
+  "errors": [],
+  "warnings": []
+}
