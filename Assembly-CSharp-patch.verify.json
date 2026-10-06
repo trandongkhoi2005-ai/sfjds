@@ -1,20 +1,20 @@
 {
   "valid": true,
   "file": "C:\\Users\\Administrator\\Downloads\\11111\\project-freefire-stable-online-key-APP-CONTROL-SECURITY-V3\\dist\\Assembly-CSharp-patch.bytes",
-  "size": 125937,
-  "sha256": "d14be47110600b7860965a38eb8e4d3a4fa51e2971ddcc7970c8e8b4856aa9ad",
+  "size": 126648,
+  "sha256": "092c01874350a3860b82732627a3c75f0169af77e4dc89cfbd1abd1cd8b8bcee",
   "format": {
     "magic": "0x66A319B20DB4A2CB",
     "expected_magic": "0x66A319B20DB4A2CB",
     "opcode_count": 181,
     "dialect": "target-flag-v1",
     "redirect_table_flag": 0,
-    "parsed_bytes": 125937
+    "parsed_bytes": 126648
   },
   "counts": {
-    "external_types": 99,
+    "external_types": 100,
     "vm_methods": 7,
-    "external_methods": 223,
+    "external_methods": 226,
     "strings": 198,
     "fields": 25,
     "static_fields": 0,
@@ -26,24 +26,24 @@
   "methods": [
     {
       "method_id": 0,
-      "code_slots": 1059,
-      "executable_instructions": 1059,
+      "code_slots": 1128,
+      "executable_instructions": 1128,
       "payload_slots": 0,
       "exceptions": [
         {
           "handler_type": 0,
-          "catch_type_id": 3,
-          "try_start": 67,
-          "try_end": 1052,
-          "handler_start": 1052,
-          "handler_end": 1057
+          "catch_type_id": 4,
+          "try_start": 77,
+          "try_end": 1121,
+          "handler_start": 1121,
+          "handler_end": 1126
         }
       ],
-      "locals": 89,
-      "declared_max_stack": 6,
-      "observed_max_stack": 6,
+      "locals": 94,
+      "declared_max_stack": 7,
+      "observed_max_stack": 7,
       "return_arity": 1,
-      "reachable_instructions": 1053,
+      "reachable_instructions": 1122,
       "stack_verified": true
     },
     {
@@ -54,7 +54,7 @@
       "exceptions": [
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 171,
           "try_end": 176,
           "handler_start": 176,
@@ -62,7 +62,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 157,
           "try_end": 170,
           "handler_start": 170,
@@ -70,7 +70,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 13,
           "try_end": 368,
           "handler_start": 368,
@@ -118,7 +118,7 @@
       "exceptions": [
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 7,
           "try_end": 120,
           "handler_start": 120,
@@ -140,7 +140,7 @@
       "exceptions": [
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 7,
           "try_end": 148,
           "handler_start": 148,
@@ -162,7 +162,7 @@
       "exceptions": [
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 341,
           "try_end": 377,
           "handler_start": 377,
@@ -170,7 +170,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 821,
           "try_end": 1200,
           "handler_start": 1200,
@@ -178,7 +178,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 395,
           "try_end": 1264,
           "handler_start": 1264,
@@ -186,7 +186,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 1285,
           "try_end": 1341,
           "handler_start": 1341,
@@ -194,7 +194,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 2821,
           "try_end": 3481,
           "handler_start": 3481,
@@ -202,7 +202,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 4503,
           "try_end": 5151,
           "handler_start": 5151,
@@ -210,7 +210,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 1397,
           "try_end": 5244,
           "handler_start": 5244,
@@ -218,7 +218,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 5719,
           "try_end": 5748,
           "handler_start": 5748,
@@ -226,7 +226,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 5824,
           "try_end": 5829,
           "handler_start": 5829,
@@ -234,7 +234,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 5804,
           "try_end": 5823,
           "handler_start": 5823,
@@ -242,7 +242,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 25,
+          "catch_type_id": 26,
           "try_start": 5844,
           "try_end": 5918,
           "handler_start": 5918,
@@ -250,7 +250,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 5347,
           "try_end": 7528,
           "handler_start": 7528,
@@ -258,7 +258,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 8039,
           "try_end": 8404,
           "handler_start": 8404,
@@ -266,7 +266,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 8957,
           "try_end": 10520,
           "handler_start": 10520,
@@ -274,7 +274,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 10893,
           "try_end": 10898,
           "handler_start": 10898,
@@ -282,7 +282,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 10879,
           "try_end": 10892,
           "handler_start": 10892,
@@ -290,7 +290,7 @@
         },
         {
           "handler_type": 0,
-          "catch_type_id": 3,
+          "catch_type_id": 4,
           "try_start": 8416,
           "try_end": 11333,
           "handler_start": 11333,
