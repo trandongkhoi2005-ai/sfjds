@@ -1,0 +1,68 @@
+{
+    "file":  "dist\\Assembly-CSharp-patch.bytes",
+    "game_version":  "1.132.1",
+    "size":  122967,
+    "sha256":  "F14EBF380EAC0CBED0FE203FDA0FAD45352BABA7CDF7A7565926CBD6B0DA6253",
+    "magic":  "0x66A319B20DB4A2CB",
+    "assembly":  "Assembly-CSharp, Version=0.86.0.518, Culture=neutral, PublicKeyToken=null",
+    "dump":  "unknown_package_name_1.132.1.cs",
+    "dump_sha256":  "483EBC2C6A245A5EE32844D996F16E5B614C1105EE363EE575ABE01652CCFEC2",
+    "bindings":  {
+                     "match_type":  "COW.GamePlay.JMAGGLCNGIG",
+                     "match_players_method":  "ILPNGCMEFFI",
+                     "aim_info_type":  "COW.GamePlay.CGKJLKPMGDJ",
+                     "aim_hit_type":  "COW.GamePlay.LKOOALMKJND",
+                     "speed_type":  "COW.GamePlay.PlayerAttributes.KGCCMFBFCAC",
+                     "source_lines":  {
+                                          "match_method":  731177,
+                                          "player_aim_field":  717981,
+                                          "scene_fields":  [
+                                                               804287,
+                                                               804288,
+                                                               804289
+                                                           ],
+                                          "aim_layout":  [
+                                                             787950,
+                                                             787951,
+                                                             787952,
+                                                             787953,
+                                                             787954,
+                                                             787955,
+                                                             787956,
+                                                             787957,
+                                                             787958,
+                                                             787959,
+                                                             787960,
+                                                             787961,
+                                                             787962,
+                                                             787963,
+                                                             787964
+                                                         ]
+                                      }
+                 },
+    "source_dummy_sha256":  "5CD3720DC1FE9D493D3B9CF8F74AF0B1916601AEF0AFB58ECBCED49C7DD34683",
+    "ifix_core_sha256":  "B4482E9644E478F74479775C399EB5A704B09DDF6A3073498E3974072776E0FB",
+    "neutral_patch_sha256":  "4C2C13744BC558FB16400AEAF0EF59C2B4C4B9CDE41446FF0C6E51AA2F96C49E",
+    "redirects":  [
+                      "Player.IsReallyInStealth -\u003e bootstrap",
+                      "SceneEditBoxSelectTool.OnGUI -\u003e ESP/menu",
+                      "Player.get_LastAimingInfoFromWeapon -\u003e silent aim",
+                      "Player.get_IsMovableEntity -\u003e native aim system",
+                      "PlayerAttributes.GetScatterRate -\u003e no recoil",
+                      "Player.GetSyncStatePos -\u003e ghost sync freeze"
+                  ],
+    "features":  [
+                     "ESP box/tracer/health/name/distance/visibility filters",
+                     "three-finger five-tap draggable ESP/AIM/SETTINGS menu",
+                     "silent aim BODY/HEAD/MIXED with headshot rate and FOV",
+                     "native aim system HEAD/NECK",
+                     "speed running x3",
+                     "no recoil",
+                     "manual ghost sync freeze with floating GHOST button"
+                 ],
+    "excluded":  [
+                     "fast reload"
+                 ],
+    "vm_instructions":  12820,
+    "vm_exception_handlers":  23
+}
