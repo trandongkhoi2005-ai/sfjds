@@ -1,8 +1,8 @@
 {
     "file":  "dist\\Assembly-CSharp-patch.bytes",
     "game_version":  "1.132.1",
-    "size":  127418,
-    "sha256":  "81C90DD5828B7C23085ABE90403295BDF416543F2B0A60D7B2BD50555F190158",
+    "size":  116127,
+    "sha256":  "20B0A65B186D3D2591C07D62A439EFAE9F6A849D869B4F90AF881B1A9C80ABBE",
     "magic":  "0x66A319B20DB4A2CB",
     "assembly":  "Assembly-CSharp, Version=0.86.0.518, Culture=neutral, PublicKeyToken=null",
     "dump":  "unknown_package_name_1.132.1.cs",
@@ -12,7 +12,6 @@
                      "match_players_method":  "ILPNGCMEFFI",
                      "aim_info_type":  "COW.GamePlay.CGKJLKPMGDJ",
                      "aim_hit_type":  "COW.GamePlay.LKOOALMKJND",
-                     "speed_type":  "COW.GamePlay.PlayerAttributes.KGCCMFBFCAC",
                      "source_lines":  {
                                           "match_method":  731177,
                                           "player_aim_field":  717981,
@@ -48,7 +47,6 @@
                       "SceneEditBoxSelectTool.OnGUI -\u003e ESP/menu",
                       "Player.get_LastAimingInfoFromWeapon -\u003e silent aim",
                       "Player.get_IsMovableEntity -\u003e native aim system",
-                      "PlayerAttributes.GetScatterRate -\u003e no recoil",
                       "Player.GetSyncStatePos -\u003e ghost sync freeze"
                   ],
     "features":  [
@@ -56,13 +54,12 @@
                      "three-finger five-tap draggable ESP/AIM/SETTINGS menu",
                      "silent aim BODY/HEAD/MIXED with headshot rate and FOV",
                      "native aim system HEAD/NECK",
-                     "speed running x3",
-                     "no recoil",
-                     "manual ghost sync freeze with floating GHOST button"
+                     "manual ghost sync freeze with floating GHOST button",
+                     "independent ESP and FOV HEX color configuration"
                  ],
     "excluded":  [
                      "fast reload"
                  ],
-    "vm_instructions":  13335,
-    "vm_exception_handlers":  23
+    "vm_instructions":  12126,
+    "vm_exception_handlers":  22
 }
