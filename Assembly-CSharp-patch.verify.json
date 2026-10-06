@@ -1,21 +1,21 @@
 {
   "valid": true,
   "file": "C:\\Users\\Administrator\\Downloads\\11111\\project-freefire-stable-online-key-APP-CONTROL-SECURITY-V3\\dist\\Assembly-CSharp-patch.bytes",
-  "size": 122967,
-  "sha256": "f14ebf380eac0cbed0fe203fda0fad45352baba7cdf7a7565926cbd6b0da6253",
+  "size": 123756,
+  "sha256": "1b1c734e6914c48a2902b26e5a8055f27f7ec6856afc5c13c1aab29193718880",
   "format": {
     "magic": "0x66A319B20DB4A2CB",
     "expected_magic": "0x66A319B20DB4A2CB",
     "opcode_count": 181,
     "dialect": "target-flag-v1",
     "redirect_table_flag": 0,
-    "parsed_bytes": 122967
+    "parsed_bytes": 123756
   },
   "counts": {
     "external_types": 99,
     "vm_methods": 7,
     "external_methods": 222,
-    "strings": 192,
+    "strings": 193,
     "fields": 25,
     "static_fields": 0,
     "anonymous_types": 0,
@@ -26,24 +26,24 @@
   "methods": [
     {
       "method_id": 0,
-      "code_slots": 830,
-      "executable_instructions": 830,
+      "code_slots": 856,
+      "executable_instructions": 856,
       "payload_slots": 0,
       "exceptions": [
         {
           "handler_type": 0,
           "catch_type_id": 3,
           "try_start": 51,
-          "try_end": 823,
-          "handler_start": 823,
-          "handler_end": 828
+          "try_end": 849,
+          "handler_start": 849,
+          "handler_end": 854
         }
       ],
-      "locals": 63,
+      "locals": 66,
       "declared_max_stack": 6,
       "observed_max_stack": 6,
       "return_arity": 1,
-      "reachable_instructions": 824,
+      "reachable_instructions": 850,
       "stack_verified": true
     },
     {
@@ -156,8 +156,8 @@
     },
     {
       "method_id": 6,
-      "code_slots": 11216,
-      "executable_instructions": 11214,
+      "code_slots": 11286,
+      "executable_instructions": 11284,
       "payload_slots": 2,
       "exceptions": [
         {
@@ -252,56 +252,56 @@
           "handler_type": 0,
           "catch_type_id": 3,
           "try_start": 5347,
-          "try_end": 7429,
-          "handler_start": 7429,
-          "handler_end": 7432
+          "try_end": 7473,
+          "handler_start": 7473,
+          "handler_end": 7476
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 7940,
-          "try_end": 8279,
-          "handler_start": 8279,
-          "handler_end": 8282
+          "try_start": 7984,
+          "try_end": 8349,
+          "handler_start": 8349,
+          "handler_end": 8352
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 8832,
-          "try_end": 10395,
-          "handler_start": 10395,
-          "handler_end": 10398
+          "try_start": 8902,
+          "try_end": 10465,
+          "handler_start": 10465,
+          "handler_end": 10468
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 10768,
-          "try_end": 10773,
-          "handler_start": 10773,
-          "handler_end": 10776
+          "try_start": 10838,
+          "try_end": 10843,
+          "handler_start": 10843,
+          "handler_end": 10846
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 10754,
-          "try_end": 10767,
-          "handler_start": 10767,
-          "handler_end": 10778
+          "try_start": 10824,
+          "try_end": 10837,
+          "handler_start": 10837,
+          "handler_end": 10848
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 8291,
-          "try_end": 11208,
-          "handler_start": 11208,
-          "handler_end": 11211
+          "try_start": 8361,
+          "try_end": 11278,
+          "handler_start": 11278,
+          "handler_end": 11281
         }
       ],
-      "locals": 650,
+      "locals": 655,
       "declared_max_stack": 8,
       "observed_max_stack": 8,
       "return_arity": 0,
-      "reachable_instructions": 11158,
+      "reachable_instructions": 11228,
       "stack_verified": true
     }
   ],
