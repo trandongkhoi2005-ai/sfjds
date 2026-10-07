@@ -1,0 +1,310 @@
+{
+  "valid": true,
+  "file": "C:\\Users\\Administrator\\Downloads\\11111\\security-v3-layer-tests\\Assembly-CSharp-patch-layer3.bytes",
+  "size": 98108,
+  "sha256": "6148076040ec747ad55b5aacdaf3ab5c3f398c5369857eb168e89cbd38bf009c",
+  "format": {
+    "magic": "0x66A319B20DB4A2CB",
+    "expected_magic": "0x66A319B20DB4A2CB",
+    "opcode_count": 181,
+    "dialect": "target-flag-v1",
+    "redirect_table_flag": 0,
+    "parsed_bytes": 98108
+  },
+  "counts": {
+    "external_types": 90,
+    "vm_methods": 7,
+    "external_methods": 211,
+    "strings": 169,
+    "fields": 25,
+    "static_fields": 0,
+    "anonymous_types": 0,
+    "redirects": 6,
+    "new_classes": 0
+  },
+  "dump": "C:\\Users\\Administrator\\Downloads\\11111\\project-freefire-stable-online-key-APP-CONTROL-SECURITY-V3\\dumps\\unknown_package_name_1.132.1.cs",
+  "methods": [
+    {
+      "method_id": 0,
+      "code_slots": 830,
+      "executable_instructions": 830,
+      "payload_slots": 0,
+      "exceptions": [
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 51,
+          "try_end": 823,
+          "handler_start": 823,
+          "handler_end": 828
+        }
+      ],
+      "locals": 63,
+      "declared_max_stack": 6,
+      "observed_max_stack": 6,
+      "return_arity": 1,
+      "reachable_instructions": 824,
+      "stack_verified": true
+    },
+    {
+      "method_id": 1,
+      "code_slots": 375,
+      "executable_instructions": 375,
+      "payload_slots": 0,
+      "exceptions": [
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 171,
+          "try_end": 176,
+          "handler_start": 176,
+          "handler_end": 179
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 157,
+          "try_end": 170,
+          "handler_start": 170,
+          "handler_end": 181
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 13,
+          "try_end": 368,
+          "handler_start": 368,
+          "handler_end": 373
+        }
+      ],
+      "locals": 24,
+      "declared_max_stack": 4,
+      "observed_max_stack": 4,
+      "return_arity": 1,
+      "reachable_instructions": 360,
+      "stack_verified": true
+    },
+    {
+      "method_id": 2,
+      "code_slots": 2,
+      "executable_instructions": 2,
+      "payload_slots": 0,
+      "exceptions": [],
+      "locals": 0,
+      "declared_max_stack": 8,
+      "observed_max_stack": 0,
+      "return_arity": 0,
+      "reachable_instructions": 1,
+      "stack_verified": true
+    },
+    {
+      "method_id": 3,
+      "code_slots": 115,
+      "executable_instructions": 115,
+      "payload_slots": 0,
+      "exceptions": [],
+      "locals": 7,
+      "declared_max_stack": 2,
+      "observed_max_stack": 2,
+      "return_arity": 1,
+      "reachable_instructions": 114,
+      "stack_verified": true
+    },
+    {
+      "method_id": 4,
+      "code_slots": 148,
+      "executable_instructions": 148,
+      "payload_slots": 0,
+      "exceptions": [
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 9,
+          "try_end": 25,
+          "handler_start": 25,
+          "handler_end": 28
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 9,
+          "try_end": 141,
+          "handler_start": 141,
+          "handler_end": 146
+        }
+      ],
+      "locals": 9,
+      "declared_max_stack": 4,
+      "observed_max_stack": 4,
+      "return_arity": 1,
+      "reachable_instructions": 142,
+      "stack_verified": true
+    },
+    {
+      "method_id": 5,
+      "code_slots": 155,
+      "executable_instructions": 155,
+      "payload_slots": 0,
+      "exceptions": [
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 7,
+          "try_end": 148,
+          "handler_start": 148,
+          "handler_end": 153
+        }
+      ],
+      "locals": 11,
+      "declared_max_stack": 4,
+      "observed_max_stack": 4,
+      "return_arity": 1,
+      "reachable_instructions": 149,
+      "stack_verified": true
+    },
+    {
+      "method_id": 6,
+      "code_slots": 8308,
+      "executable_instructions": 8306,
+      "payload_slots": 2,
+      "exceptions": [
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 112,
+          "try_end": 128,
+          "handler_start": 128,
+          "handler_end": 131
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 362,
+          "try_end": 398,
+          "handler_start": 398,
+          "handler_end": 401
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 828,
+          "try_end": 1642,
+          "handler_start": 1642,
+          "handler_end": 1655
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 416,
+          "try_end": 1706,
+          "handler_start": 1706,
+          "handler_end": 1709
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 1727,
+          "try_end": 1783,
+          "handler_start": 1783,
+          "handler_end": 1786
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 1799,
+          "try_end": 2345,
+          "handler_start": 2345,
+          "handler_end": 2364
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 2811,
+          "try_end": 2840,
+          "handler_start": 2840,
+          "handler_end": 2843
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 2916,
+          "try_end": 2921,
+          "handler_start": 2921,
+          "handler_end": 2924
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 2896,
+          "try_end": 2915,
+          "handler_start": 2915,
+          "handler_end": 2926
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 25,
+          "try_start": 2936,
+          "try_end": 3010,
+          "handler_start": 3010,
+          "handler_end": 3013
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 2439,
+          "try_end": 4521,
+          "handler_start": 4521,
+          "handler_end": 4524
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 5032,
+          "try_end": 5371,
+          "handler_start": 5371,
+          "handler_end": 5374
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 5924,
+          "try_end": 7487,
+          "handler_start": 7487,
+          "handler_end": 7490
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 7860,
+          "try_end": 7865,
+          "handler_start": 7865,
+          "handler_end": 7868
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 7846,
+          "try_end": 7859,
+          "handler_start": 7859,
+          "handler_end": 7870
+        },
+        {
+          "handler_type": 0,
+          "catch_type_id": 3,
+          "try_start": 5383,
+          "try_end": 8300,
+          "handler_start": 8300,
+          "handler_end": 8303
+        }
+      ],
+      "locals": 490,
+      "declared_max_stack": 8,
+      "observed_max_stack": 8,
+      "return_arity": 0,
+      "reachable_instructions": 8260,
+      "stack_verified": true
+    }
+  ],
+  "errors": [],
+  "warnings": []
+}
