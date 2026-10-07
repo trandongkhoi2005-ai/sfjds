@@ -1,0 +1,68 @@
+{
+  "protocol": "Security v3 A/B layers 1-4",
+  "canonical_patch_modified": false,
+  "layer5_crypto_excluded": true,
+  "notes": [
+    "Test runtime strictly in order 1 -> 2 -> 3 -> 4.",
+    "Do not advance when bootstrap/OnGUI/auth flow fails.",
+    "Layer 2-4 static verification passing does not imply runtime PASS."
+  ],
+  "layers": [
+    {
+      "layer": 1,
+      "source_commit": "b54aaa42b98e5c051ab5e9b380954fb43e4fa367",
+      "size": 93809,
+      "sha256": "BF75D515440CB4AAC8E14D458EE46EF56F81E8C454603864A86FCD35B9E70166",
+      "static_verify": "PASS",
+      "runtime_status": "PASS_PREVIOUSLY_TESTED",
+      "adds": [
+        "validate",
+        "inject-ticket"
+      ]
+    },
+    {
+      "layer": 2,
+      "source_commit": "be6a604f5ebf8f8433e2fd9f839fa89fc5293127",
+      "size": 96215,
+      "sha256": "BE79920C8E42DAD8727D38D2914E3FAA5BBDEE31AEDDA23BC5F050347E919E7B",
+      "static_verify": "PASS",
+      "runtime_status": "NOT_TESTED",
+      "adds": [
+        "game-session"
+      ]
+    },
+    {
+      "layer": 3,
+      "source_commit": "829d71e055f719c50d8ecc221c0c58779958ef46",
+      "size": 98108,
+      "sha256": "6148076040EC747AD55B5AACDAF3AB5C3F398C5369857EB168E89CBD38BF009C",
+      "static_verify": "PASS",
+      "runtime_status": "NOT_TESTED",
+      "adds": [
+        "basic-heartbeat"
+      ]
+    },
+    {
+      "layer": 4,
+      "source_commit": "1fcb713d92e1b48d25350712d1bdc7212b2eff76",
+      "size": 100654,
+      "sha256": "95BEDC1DC3AB434501456538985214C67171F86D7775DFD4C47A4E36331C78AF",
+      "static_verify": "PASS",
+      "runtime_status": "NOT_TESTED",
+      "adds": [
+        "expiry",
+        "revoke",
+        "session-invalidation"
+      ]
+    }
+  ],
+  "forbidden_refs_checked": [
+    "System.Security.Cryptography",
+    "RSA",
+    "RSACryptoServiceProvider",
+    "signature_b64",
+    "certificate",
+    "root_signature_b64"
+  ],
+  "forbidden_refs_present": []
+}
