@@ -1,8 +1,8 @@
 {
     "file":  "dist\\Assembly-CSharp-patch.bytes",
     "game_version":  "1.132.1",
-    "size":  93513,
-    "sha256":  "DBD764A215910A3ADD96C4F1A9AE85D83AB9421B1748E19AEA763281DF3BCD1F",
+    "size":  91696,
+    "sha256":  "B60D596B5650EACC4FE5553E537EB156833A9057378D58206099971BDFE2B086",
     "magic":  "0x66A319B20DB4A2CB",
     "assembly":  "Assembly-CSharp, Version=0.86.0.518, Culture=neutral, PublicKeyToken=null",
     "dump":  "unknown_package_name_1.132.1.cs",
@@ -60,6 +60,6 @@
     "excluded":  [
                      "fast reload"
                  ],
-    "vm_instructions":  9492,
-    "vm_exception_handlers":  22
+    "vm_instructions":  9231,
+    "vm_exception_handlers":  30
 }
