@@ -1,21 +1,21 @@
 {
   "valid": true,
   "file": "C:\\Users\\Administrator\\Downloads\\11111\\project-freefire-stable-online-key-APP-CONTROL-SECURITY-V3\\dist\\Assembly-CSharp-patch.bytes",
-  "size": 91696,
-  "sha256": "b60d596b5650eacc4fe5553e537eb156833a9057378d58206099971bdfe2b086",
+  "size": 92600,
+  "sha256": "45226c8b3529c134406c0c8f56fd22e88d493806381879a2488ccce2bef78be8",
   "format": {
     "magic": "0x66A319B20DB4A2CB",
     "expected_magic": "0x66A319B20DB4A2CB",
     "opcode_count": 181,
     "dialect": "target-flag-v1",
     "redirect_table_flag": 0,
-    "parsed_bytes": 91696
+    "parsed_bytes": 92600
   },
   "counts": {
     "external_types": 87,
     "vm_methods": 6,
     "external_methods": 199,
-    "strings": 162,
+    "strings": 166,
     "fields": 24,
     "static_fields": 0,
     "anonymous_types": 0,
@@ -142,8 +142,8 @@
     },
     {
       "method_id": 5,
-      "code_slots": 7800,
-      "executable_instructions": 7800,
+      "code_slots": 7904,
+      "executable_instructions": 7904,
       "payload_slots": 0,
       "exceptions": [
         {
@@ -165,185 +165,185 @@
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 492,
-          "try_end": 496,
-          "handler_start": 496,
-          "handler_end": 499
+          "try_start": 564,
+          "try_end": 568,
+          "handler_start": 568,
+          "handler_end": 571
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 803,
-          "try_end": 807,
-          "handler_start": 807,
-          "handler_end": 810
+          "try_start": 907,
+          "try_end": 911,
+          "handler_start": 911,
+          "handler_end": 914
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 823,
-          "try_end": 827,
-          "handler_start": 827,
-          "handler_end": 830
+          "try_start": 927,
+          "try_end": 931,
+          "handler_start": 931,
+          "handler_end": 934
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 868,
-          "try_end": 872,
-          "handler_start": 872,
-          "handler_end": 875
+          "try_start": 972,
+          "try_end": 976,
+          "handler_start": 976,
+          "handler_end": 979
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 884,
-          "try_end": 888,
-          "handler_start": 888,
-          "handler_end": 891
+          "try_start": 988,
+          "try_end": 992,
+          "handler_start": 992,
+          "handler_end": 995
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 906,
-          "try_end": 910,
-          "handler_start": 910,
-          "handler_end": 913
+          "try_start": 1010,
+          "try_end": 1014,
+          "handler_start": 1014,
+          "handler_end": 1017
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 922,
-          "try_end": 926,
-          "handler_start": 926,
-          "handler_end": 929
+          "try_start": 1026,
+          "try_end": 1030,
+          "handler_start": 1030,
+          "handler_end": 1033
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 932,
-          "try_end": 936,
-          "handler_start": 936,
-          "handler_end": 939
+          "try_start": 1036,
+          "try_end": 1040,
+          "handler_start": 1040,
+          "handler_end": 1043
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
           "try_start": 419,
-          "try_end": 947,
-          "handler_start": 947,
-          "handler_end": 963
+          "try_end": 1051,
+          "handler_start": 1051,
+          "handler_end": 1067
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 974,
-          "try_end": 1502,
-          "handler_start": 1502,
-          "handler_end": 1505
+          "try_start": 1078,
+          "try_end": 1606,
+          "handler_start": 1606,
+          "handler_end": 1609
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 1523,
-          "try_end": 1579,
-          "handler_start": 1579,
-          "handler_end": 1582
+          "try_start": 1627,
+          "try_end": 1683,
+          "handler_start": 1683,
+          "handler_end": 1686
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 1633,
-          "try_end": 2347,
-          "handler_start": 2347,
-          "handler_end": 2366
+          "try_start": 1737,
+          "try_end": 2451,
+          "handler_start": 2451,
+          "handler_end": 2470
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 2811,
-          "try_end": 2840,
-          "handler_start": 2840,
-          "handler_end": 2843
+          "try_start": 2915,
+          "try_end": 2944,
+          "handler_start": 2944,
+          "handler_end": 2947
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 2916,
-          "try_end": 2921,
-          "handler_start": 2921,
-          "handler_end": 2924
+          "try_start": 3020,
+          "try_end": 3025,
+          "handler_start": 3025,
+          "handler_end": 3028
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 2896,
-          "try_end": 2915,
-          "handler_start": 2915,
-          "handler_end": 2926
+          "try_start": 3000,
+          "try_end": 3019,
+          "handler_start": 3019,
+          "handler_end": 3030
         },
         {
           "handler_type": 0,
           "catch_type_id": 25,
-          "try_start": 2936,
-          "try_end": 3010,
-          "handler_start": 3010,
-          "handler_end": 3013
+          "try_start": 3040,
+          "try_end": 3114,
+          "handler_start": 3114,
+          "handler_end": 3117
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 2439,
-          "try_end": 4481,
-          "handler_start": 4481,
-          "handler_end": 4484
+          "try_start": 2543,
+          "try_end": 4585,
+          "handler_start": 4585,
+          "handler_end": 4588
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 4988,
-          "try_end": 5239,
-          "handler_start": 5239,
-          "handler_end": 5242
+          "try_start": 5092,
+          "try_end": 5343,
+          "handler_start": 5343,
+          "handler_end": 5346
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 5805,
-          "try_end": 7271,
-          "handler_start": 7271,
-          "handler_end": 7274
+          "try_start": 5909,
+          "try_end": 7375,
+          "handler_start": 7375,
+          "handler_end": 7378
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 7407,
-          "try_end": 7412,
-          "handler_start": 7412,
-          "handler_end": 7415
+          "try_start": 7511,
+          "try_end": 7516,
+          "handler_start": 7516,
+          "handler_end": 7519
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 7393,
-          "try_end": 7406,
-          "handler_start": 7406,
-          "handler_end": 7417
+          "try_start": 7497,
+          "try_end": 7510,
+          "handler_start": 7510,
+          "handler_end": 7521
         },
         {
           "handler_type": 0,
           "catch_type_id": 3,
-          "try_start": 5251,
-          "try_end": 7792,
-          "handler_start": 7792,
-          "handler_end": 7795
+          "try_start": 5355,
+          "try_end": 7896,
+          "handler_start": 7896,
+          "handler_end": 7899
         }
       ],
-      "locals": 463,
+      "locals": 475,
       "declared_max_stack": 8,
       "observed_max_stack": 8,
       "return_arity": 0,
-      "reachable_instructions": 7738,
+      "reachable_instructions": 7842,
       "stack_verified": true
     }
   ],
